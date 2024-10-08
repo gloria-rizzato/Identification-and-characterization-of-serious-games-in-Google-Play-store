@@ -15,4 +15,4 @@ BeautifulSoup is used to extract information and to use CSS (Cascading Style She
 4. **Study type classification**: assessment of the level of clinical evidence produced on selected serious games, based on the type of study carried on in associated papers.This was done by analyzing abstracts using a predefined list of keywords specific to each study type, counting the occurrences of common words after natural language processing (NLP) with four established dictionaries.
 
 ---
-Contributors:Gloria Rizzato, Giulia Peteani, Francesca Ronchetti, Maria Marchesi, Martina Minotti
+Contributors: Gloria Rizzato, Giulia Peteani, Francesca Ronchetti, Maria Marchesi, Martina Minotti
